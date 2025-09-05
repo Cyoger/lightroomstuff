@@ -1,0 +1,27 @@
+Plug-in error log for plug-in at: C:\LightroomPlugins\ReExportFullRes.lrplugin
+
+**** Error 1
+
+Could not load the post-processing filter from this plug-in.
+service definition script should have returned a table, but it was a nil
+
+**** Error 2
+
+Could not load the post-processing filter from this plug-in.
+service definition script should have returned a table, but it was a nil
+
+**** Error 3
+
+Could not load the post-processing filter from this plug-in.
+service definition script should have returned a table, but it was a nil
+
+**** Error 4
+
+Could not load the post-processing filter from this plug-in.
+service definition script should have returned a table, but it was a nil
+
+**** Error 5
+
+Could not load the post-processing filter from this plug-in.
+service definition script should have returned a table, but it was a nil
+
